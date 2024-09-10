@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="33dp"
+    android:id="@+id/TextViewTime"
+    android:layout_margin="8dp"
+    android:background="@drawable/light_black_bg"
+    android:gravity="center"
+    android:paddingStart="8dp"
+    android:paddingEnd="8dp"
+    android:textColor="@color/white">
+
+</TextView>

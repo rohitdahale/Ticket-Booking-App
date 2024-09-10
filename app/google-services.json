@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098357682564",
+    "project_id": "ticket-collect",
+    "storage_bucket": "ticket-collect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098357682564:android:cd1c1a254621c71f4dadd1",
+        "android_client_info": {
+          "package_name": "com.rohit.ticketcollect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdOL-5rF8eFIAc14okZQDHTxNq7D2FD38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

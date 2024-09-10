@@ -1,19 +1,32 @@
-# Cinema Ticket Booking App
+# 🎟️ Cinema Ticket Booking App
 
 This project is an Android application designed and developed using Kotlin. The app allows users to book movie tickets by selecting their preferred seats in a cinema hall and generates a downloadable PDF ticket with all the details.
 
-## Features
+## ✨ Features
 
-- **Clean UI:** The app provides a user-friendly interface for easy navigation and usability.
-- **Smooth Navigation:** Seamless transitions and navigation between screens for a great user experience.
-- **Seat Selection:** Users can choose seats from any row or column in the cinema hall.
-- **Ticket PDF Generation:** After booking a ticket, the app generates a downloadable PDF containing all ticket details, including the movie, seat, and time.
+- 🖼️ **Clean UI:** The app provides a user-friendly interface for easy navigation and usability.
+- 🚀 **Smooth Navigation:** Seamless transitions and navigation between screens for a great user experience.
+- 🎬 **Seat Selection:** Users can choose seats from any row or column in the cinema hall.
+- 📝 **Ticket PDF Generation:** After booking a ticket, the app generates a downloadable PDF containing all ticket details, including the movie, seat, and time.
 
-## Screenshots
+## 📸 Screenshots
+
+Here are some screenshots of the app in action:
+
+<p align="center">
+  <img src="./demo/seat_booking.png" alt="Seat Selection" width="30%" />
+  <img src="./demo/pdf.png" alt="Booking Confirmation" width="30%" />
+  <img src="./demo/movie_detail.png" alt="Movie Selection" width="30%" />
+</p>
+
+<p align="center">
+  <img src="./demo/movie_detail2.png" alt="Payment Gateway" width="30%" />
+  <img src="./demo/intro.png" alt="Ticket Summary" width="30%" />
+  <img src=".demo/home_page.png" alt="Ticket PDF" width="30%" />
+</p>
 
 
-
-## Installation
+## ⚙️ Installation
 
 To run this project, follow these steps:
 
@@ -26,13 +39,13 @@ To run this project, follow these steps:
 
 3. Build the project and run it on an emulator or physical device.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **Kotlin**: Primary language for Android development.
 - **PDF Generation**: The app generates a PDF for the movie ticket with detailed information.
 - **Android Jetpack Components**: Used for UI and navigation architecture.
 
-## How to Use
+## 🚦 How to Use
 
 1. Open the app and browse the available movies.
 2. Select a movie, choose your preferred time and cinema hall.
@@ -40,13 +53,13 @@ To run this project, follow these steps:
 4. Confirm your booking, and the app will generate a PDF ticket.
 5. Download or view the PDF containing all the booking details.
 
-## Requirements
+## 📋 Requirements
 
 - **Android Studio**: Version 4.1 or higher.
 - **Android SDK**: Minimum SDK version 24 (Android 7.0).
 - **Target SDK**: SDK 34.
 
-## Contributing
+## 🤝 Contributing
 
 If you want to contribute to this project:
 
@@ -54,4 +67,3 @@ If you want to contribute to this project:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them.
 4. Push to your branch and create a pull request.
-

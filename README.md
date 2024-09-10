@@ -22,7 +22,7 @@ Here are some screenshots of the app in action:
 <p align="center">
   <img src="./demo/movie_detail2.png" alt="Payment Gateway" width="30%" />
   <img src="./demo/intro.png" alt="Ticket Summary" width="30%" />
-  <img src=".demo/home_page.png" alt="Ticket PDF" width="30%" />
+  <img src="./demo/home_page.png" alt="Ticket PDF" width="30%" />
 </p>
 
 
